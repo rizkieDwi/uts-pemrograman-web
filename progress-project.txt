@@ -1,8 +1,0 @@
-Platform Jual-beli berbasis Web
-Progress:
-- Membuat interface web
-- Membuat navigation bar
-- Membuat katalog
-- membuat laporan web tentang github
-- membuat tema web
-- pengawalan bermain github
