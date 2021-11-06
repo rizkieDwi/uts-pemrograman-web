@@ -3,4 +3,4 @@ Progress:
 - Membuat interface web
 - Membuat navigation bar
 - Membuat katalog
-- Pengerjaan uts program web
+- membuat laporan web tentang github
