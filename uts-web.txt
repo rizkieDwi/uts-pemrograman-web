@@ -3,3 +3,5 @@ Progress:
 - Membuat interface web
 - Membuat Tombol navigasi
 - Membuat tombol cari
+- Membuat catalog produk
+- Membuat fitur keranjang
