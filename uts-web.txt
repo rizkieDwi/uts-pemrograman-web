@@ -1,3 +1,5 @@
 Membuat Platform Jual-Beli Berbasis Web
 Progress:
 - Membuat interface web
+- Membuat Tombol navigasi
+- Membuat tombol cari
